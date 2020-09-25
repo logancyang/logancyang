@@ -5,7 +5,7 @@
 
 ### I'm a machine learning practitioner and full-stack engineer
 
-- 👨‍💻 I’m currently working on some personal projects and a [self-designed CS degree]()!
+- 👨‍💻 I’m currently working on some personal projects and a [self-designed CS degree](https://github.com/logancyang/my-cs-degree)!
 - 🎻 Outside of work, I love playing musical instruments, and shooting cinematic videos.
 - 🥅 2020 Goals:
   - Write more on machine learning, computer science and engineering
