@@ -3,10 +3,11 @@
 [![Website](https://img.shields.io/website?label=logancyang.com&style=for-the-badge&url=https%3A%2F%2Flogancyang.com)](https://logancyang.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/logancyang?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flogancyang&screen_name=logancyang)
 
+### I'm a machine learning practitioner and full-stack engineer
 
 - 👨‍💻 I’m currently working on personal projects and a self-designed CS degree!
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play musical instruments, shoot videos
+- 🥅 2020 Goals: Contribute more to open source
+- 🎻 Fun fact: Outside of work, I love playing musical instruments, shooting cinematic videos, and learning random interesting things
 
 ### Connect with me:
 
@@ -40,7 +41,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="logancyang's Github Stats" src="https://github-readme-stats.logancyang.vercel.app/api?username=logancyang&show_icons=true&hide_border=true" />
+  <img align="left" alt="logancyang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=logancyang&show_icons=true&hide_border=true" />
 
 </details>
 
