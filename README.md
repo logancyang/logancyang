@@ -5,9 +5,16 @@
 
 ### I'm a machine learning practitioner and full-stack engineer
 
-- 👨‍💻 I’m currently working on personal projects and a self-designed CS degree!
-- 🥅 2020 Goals: Contribute more to open source
-- 🎻 Fun fact: Outside of work, I love playing musical instruments, shooting cinematic videos, and learning random interesting things
+- 👨‍💻 I’m currently working on some personal projects and a [self-designed CS degree]()!
+- 🎻 Outside of work, I love playing musical instruments, and shooting cinematic videos.
+- 🥅 2020 Goals:
+  - Write more on machine learning, computer science and engineering
+  - Build interesting NLP projects
+  - Contribute more to open source
+- 🐱 Fun fact: my wife and I have 2 beautiful cats, follow their [instagram](https://www.instagram.com/lulu_dover) if you love cat pics!
+
+### Spotify 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12122125145&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
