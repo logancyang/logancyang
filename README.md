@@ -32,6 +32,7 @@
 ### 📕 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Designed My Own Full-Stack ML Engineering Degree](https://towardsdatascience.com/how-i-designed-my-own-full-stack-ml-engineering-degree-297a31e3a3b2?source=rss-59aa671cf125------2)
 - [Colonize Space with Fractal Trees](https://levelup.gitconnected.com/colonize-space-with-fractal-trees-ecd6cbb6e78c?source=rss-59aa671cf125------2)
 - [Simulate Any Distribution with Rejection Sampling](https://towardsdatascience.com/simulate-any-distribution-with-rejection-sampling-ebe4e66cc068?source=rss-59aa671cf125------2)
 - [Building A Mental Model for Backpropagation](https://towardsdatascience.com/building-a-mental-model-for-backpropagation-987ac74d1821?source=rss-59aa671cf125------2)
