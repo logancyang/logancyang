@@ -5,13 +5,14 @@
 
 ### I'm a machine learning practitioner and full-stack engineer
 
-- 👨‍💻 I’m currently working on some personal projects and a [self-designed CS degree](https://github.com/logancyang/my-cs-degree)!
-- 🎻 Outside of work, I love playing musical instruments and making cinematic videos.
-- 🥅 2020 Goals:
-  - Write more on machine learning, computer science and engineering
-  - Build interesting NLP projects
-  - Contribute more to open source
-- 🐱 Fun fact: my wife and I have 2 beautiful cats, follow their [instagram](https://www.instagram.com/lulu_dover) if you love cat pics!
+- 👨‍💻 I’m passionate about building software, data and info products that help people live a more fulfilling life.
+- 🎻 Outside of work, I love learning new things, playing musical instruments and making cinematic videos.
+- 🥅 2021 Goals:
+  - Workout, stretch, meditate and eat clean consistently.
+  - Read more. Write a summary for each non-fiction book.
+  - Write more. Post at least 1 article every month.
+  - Learn Swift and SpriteKit. Publish an app in the App Store.
+- 🐱 My wife and I have 2 beautiful cats, check out their [instagram](https://www.instagram.com/lulu_dover)!
 
 ### Spotify 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12122125145&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
@@ -58,6 +59,6 @@
 
 [website]: https://logancyang.com
 [twitter]: https://twitter.com/logancyang
-[youtube]: https://www.youtube.com/channel/UCG__SwTAEtnT4wvYh82sX1Q/
+[youtube]: https://www.youtube.com/channel/UCpMb6BBLE17hnIbNA7ew3MA
 [linkedin]: https://linkedin.com/in/loganyang
 [medium]: https://medium.com/@loganyang
