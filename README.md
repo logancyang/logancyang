@@ -33,11 +33,11 @@
 ### 📕 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the Loss Landscape Animation Python Package](https://towardsdatascience.com/introducing-the-loss-landscape-animation-python-package-2bf091a68734?source=rss-59aa671cf125------2)
 - [A 3-Minute Review of PCA: Compression and Recovery](https://towardsdatascience.com/a-3-minute-review-of-pca-compression-and-recovery-38bb510a8637?source=rss-59aa671cf125------2)
 - [I Created an Alexa Skill to Settle an Argument With My Wife](https://medium.com/swlh/i-created-an-alexa-skill-to-settle-an-argument-with-my-wife-410fbcb6a45a?source=rss-59aa671cf125------2)
 - [How I Designed My Own Full-Stack ML Engineering Degree](https://towardsdatascience.com/how-i-designed-my-own-full-stack-ml-engineering-degree-297a31e3a3b2?source=rss-59aa671cf125------2)
 - [Colonize Space with Fractal Trees](https://levelup.gitconnected.com/colonize-space-with-fractal-trees-ecd6cbb6e78c?source=rss-59aa671cf125------2)
-- [Simulate Any Distribution with Rejection Sampling](https://towardsdatascience.com/simulate-any-distribution-with-rejection-sampling-ebe4e66cc068?source=rss-59aa671cf125------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][medium]
