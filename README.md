@@ -14,8 +14,6 @@
   - Learn Swift and SpriteKit. Publish an app in the App Store.
 - 🐱 My wife and I have 2 beautiful cats, check out their [instagram](https://www.instagram.com/lulu_dover)!
 
-### Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12122125145&cover_image=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
