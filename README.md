@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=logancyang.com&style=for-the-badge&url=https%3A%2F%2Flogancyang.com)](https://logancyang.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/logancyang?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flogancyang&screen_name=logancyang)
 
-### I'm a machine learning practitioner and indie hacker
+### I'm a machine learning practitioner and software engineer
 
 - 👨‍💻 I’m passionate about building software, data and info products that help people live a more fulfilling life.
 - 🎻 Outside of work, I love learning new things, playing musical instruments and making cinematic videos.
