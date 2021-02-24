@@ -9,7 +9,7 @@
 - 🎻 Outside of work, I love learning new things, playing musical instruments and making cinematic videos.
 - 🥅 2021 Goals:
   - 🏋️‍♀️  🍲  Workout, stretch and eat clean consistently.
-  - 🌅  🚚. Move to the west coast
+  - 🌅  🚚. Move to the west coast and start my new job.
   - 📖  📝  Read more. Write a summary for each non-fiction book.
   - ✍️  🤯  Write more. Post at least 12 articles through out the year.
   - 📱  👨‍💻  Learn Swift and SpriteKit. Publish an app in the App Store.
