@@ -8,10 +8,11 @@
 - 👨‍💻 I’m passionate about building software, data and info products that help people live a more fulfilling life.
 - 🎻 Outside of work, I love learning new things, playing musical instruments and making cinematic videos.
 - 🥅 2021 Goals:
-  - Workout, stretch, meditate and eat clean consistently.
-  - Read more. Write a summary for each non-fiction book.
-  - Write more. Post at least 1 article every month.
-  - Learn Swift and SpriteKit. Publish an app in the App Store.
+  - 🏋️‍♀️  🍲  Workout, stretch and eat clean consistently.
+  - 🌅  🚚. Move to the west coast
+  - 📖  📝  Read more. Write a summary for each non-fiction book.
+  - ✍️  🤯  Write more. Post at least 12 articles through out the year.
+  - 📱  👨‍💻  Learn Swift and SpriteKit. Publish an app in the App Store.
 - 🐱 My wife and I have 2 beautiful cats, check out their [instagram](https://www.instagram.com/lulu_dover)!
 
 
