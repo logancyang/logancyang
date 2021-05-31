@@ -12,7 +12,6 @@
   - 🌅  🚚. Move to the west coast and start my new job.
   - 📖  📝  Read more. Write a summary for each non-fiction book.
   - ✍️  🤯  Write more. Post at least 12 articles through out the year.
-  - 📱  👨‍💻  Learn Swift and SpriteKit. Publish an app in the App Store.
 - 🐱 My wife and I have 2 beautiful cats, check out their [instagram](https://www.instagram.com/lulu_dover)!
 
 
