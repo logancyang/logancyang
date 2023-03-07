@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m passionate about creating delightful things that help people live a more fulfilling life.
 - 🎻 Outside of work, I love music, writing, and making cinematic videos.
-- 🥅 2022 Goals: become a worthy father
+- 🥅 2023 Goals: build my own business, stay healthy and energized
 - 🐱 My wife and I have 2 beautiful cats, check out their [instagram](https://www.instagram.com/lulu_dover)!
 
 
