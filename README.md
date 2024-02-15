@@ -1,6 +1,6 @@
 ### Hi there, I'm Logan 👋
 
-[![Website](https://img.shields.io/website?label=logancyang.com&style=for-the-badge&url=https%3A%2F%2Flogancyang.com)](https://logancyang.com)
+[![Website](https://img.shields.io/website?label=loganyang.com&style=for-the-badge&url=https%3A%2F%2Floganyang.com)](https://loganyang.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/logancyang?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flogancyang&screen_name=logancyang)
 
 ### I'm a machine learning practitioner and software engineer
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="logancyang.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="loganyang.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="logancyang | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="logancyang | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="logancyang | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -51,7 +51,7 @@
 
 </details>
 
-[website]: https://logancyang.com
+[website]: https://loganyang.com
 [twitter]: https://twitter.com/logancyang
 [youtube]: https://www.youtube.com/channel/UCpMb6BBLE17hnIbNA7ew3MA
 [linkedin]: https://linkedin.com/in/loganyang
