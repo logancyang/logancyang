@@ -9,7 +9,7 @@
 
 Author of [**Copilot for Obsidian**](https://github.com/logancyang/obsidian-copilot) — the most popular AI plugin for Obsidian with **1M+ downloads** and **6.3k+ stars**.
 
-I build tools at the intersection of AI agents and personal knowledge management.
+Tokens are running water. Own your AI. I ship provider-agnostic tools that run on your devices, with your data, on your terms.
 
 - 👨‍💻 Passionate about creating delightful tools that help people think better and live more fulfilling lives.
 - 🎻 Outside of work, I love music, writing, and making cinematic videos.
